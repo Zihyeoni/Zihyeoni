@@ -1,7 +1,7 @@
 ### LEE HYEON JI👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGodHyeonG)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZihyeoni)](https://hits.seeyoufarm.com)
 <!--
-**GodHyeonG/GodHyeonG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zihyeoni/Zihyeoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=GodHyeonG&show_icons=true&hide_border=true)](https://github.com/GodHyeonG)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodHyeonG&layout=compact)](https://github.com/GodHyeonG)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Zihyeoni&show_icons=true&hide_border=true)](https://github.com/Zihyeoni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihyeoni&layout=compact)](https://github.com/Zihyeoni)
