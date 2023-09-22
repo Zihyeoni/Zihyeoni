@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 [![Zihyeoni's github stats](https://github-readme-stats.vercel.app/api?username=Zihyeoni&show_icons=true&theme=buefy)](https://github.com/Zihyeoni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihyeoni&layout=compact&theme=buefy)](https://github.com/Zihyeoni)
-[![Zihyeoni/repo - GitHub](https://gh-card.dev/repos/Zihyeoni/repo.svg)](https://github.com/Zihyeoni/repo)
