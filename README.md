@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Zihyeoni's github stats](https://github-readme-stats.vercel.app/api?username=Zihyeoni&show_icons=true&theme=buefy)](https://github.com/Zihyeoni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihyeoni&hide_progress=true)](https://github.com/Zihyeoni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihyeoni&layout=donut)](https://github.com/Zihyeoni)
