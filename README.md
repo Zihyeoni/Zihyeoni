@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Zihyeoni's github stats](https://github-readme-stats.vercel.app/api?username=Zihyeoni&show_icons=true&theme=buefy)](https://github.com/Zihyeoni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zihyeoni&layout=compact)](https://github.com/Zihyeoni)
+[![Zihyeoni's GitHub stats](./profile/stats.svg)](https://github.com/Zihyeoni)
+
+[![Top Langs](./profile/top-langs.svg)](https://github.com/Zihyeoni)
